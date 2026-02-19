@@ -23,3 +23,4 @@ x = 10; // ESLint: This assigned value is not used in subsequent statements. (no
 ## Reference
 
 - [ESLint Rule: no-useless-assignment](https://eslint.org/docs/latest/rules/no-useless-assignment)
+- [issue & comments](https://github.com/eslint/eslint/issues/20517)
